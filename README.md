@@ -39,4 +39,12 @@ The Bus Management System allows administrators to manage bus details, including
    - For admin access, enter the password when prompted (default: `admin`).
    - Follow on-screen instructions to perform various actions.
 
+## Future Scope
+
+❖ Software can be modified with the help of web dev. /app development.
+❖ Provide SMS based alerts and email notifications for bookings.
+❖ A wallet can be developed to handle payments.
+❖ Chat feature can be included in the application to chat with customer care.
+❖ Allow the customer to save favourite routes.
+
 ---
